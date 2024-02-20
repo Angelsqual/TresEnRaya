@@ -1,0 +1,22 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Users\\Angelsqual\\Desktop\\CICLO INFORMATICA\\2º año\\Programacion\\TresEnRaya\\src\\motor3R",
+    "out": "c:\\Users\\Angelsqual\\Desktop\\CICLO INFORMATICA\\2º año\\Programacion\\TresEnRaya\\src\\motor3R\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Java\\jdk-19\\bin\\javadoc.exe",
+    "exclude": []
+}
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-19\bin\javadoc.exe" 
+	-sourcepath "c:\Users\Angelsqual\Desktop\CICLO INFORMATICA\2º año\Programacion\TresEnRaya\src\motor3R" 
+	-d "c:\Users\Angelsqual\Desktop\CICLO INFORMATICA\2º año\Programacion\TresEnRaya\src\motor3R\javadoc" 
+	"c:\Users\Angelsqual\Desktop\CICLO INFORMATICA\2º año\Programacion\TresEnRaya\src\motor3R\TresEnRaya.java"
+
+
+==== JAVADOC OUTPUT ====
+Loading source file c:\Users\Angelsqual\Desktop\CICLO INFORMATICA\2� a�o\Programacion\TresEnRaya\src\motor3R\TresEnRaya.java...
+Constructing Javadoc information...
+error: Destination directory is not a directory: c:\Users\Angelsqual\Desktop\CICLO INFORMATICA\2� a�o\Programacion\TresEnRaya\src\motor3R\javadoc
+1 error
+
+
